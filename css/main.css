@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 
 .hidden {
@@ -214,7 +214,7 @@ body {
   #header {
     height: 35%;
     min-width: 340px;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
   }
 
   #header #gnb {
